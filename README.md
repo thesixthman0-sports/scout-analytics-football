@@ -3,7 +3,7 @@
 A recruitment-analytics project: given a reference player, find the players in the league
 whose on-pitch behaviour is most similar.
 
-**Notebook:** [`01_similar_players_serie_a_2015_16.ipynb`](01_similar_players_serie_a_2015_16.ipynb)
+**Notebook:** [`scout_analytics_football_3.ipynb`](scout_analytics_football_3.ipynb)
 
 ## Question
 
@@ -90,4 +90,4 @@ the match data (this takes a while) and caches it on Google Drive; later runs re
 
 Data provided by StatsBomb. https://github.com/statsbomb/open-data
 
-![StatsBomb logo](statsbomb_logo.png)# scout-analytics-football
+![StatsBomb logo](hudl-statsbomb-logo-default.png)
